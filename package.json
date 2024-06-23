@@ -1,0 +1,21 @@
+{
+  "name": "bookmyshow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chaitanya",
+  "license": "ISC",
+  "dependencies": {
+    "node-aplay": "^1.0.3",
+    "node-notifier": "^10.0.1",
+    "node-wav-player": "^0.2.0",
+    "play-sound": "^1.1.6",
+    "proxy-chain": "^2.4.1",
+    "puppeteer": "^22.11.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
